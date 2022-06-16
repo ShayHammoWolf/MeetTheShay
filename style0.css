@@ -4,3 +4,21 @@ html, body {
     font-size: 16px;
     colour: #685369
 }
+
+p {
+  font-size: 2em;
+  line-height: 1em
+  margin-bottom: 30px;
+  colour: #00CC58;
+}
+
+h1 {
+  border-bottom: 1px solid #F72C25;
+  padding: 20px 0 0;
+}
+
+h2 {
+  font-size: 20px;
+
+  padding: 20px 0 0;
+}
