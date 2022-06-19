@@ -3,7 +3,7 @@ html, body {
     font-family: Lucida Sans, Candara, Trebuchet MS;
     font-size: 16px;
     colour: #685369
-}
+} html, body
 
 p {
   font-size: 2em;
@@ -12,7 +12,7 @@ p {
   colour: #00CC58;
 }
 
-h1 {
+.App-text h1 {
   border-bottom: 1px solid #F72C25;
   padding: 20px 0 0;
 }
@@ -22,3 +22,4 @@ h2 {
 
   padding: 20px 0 0;
 }
+html, body
